@@ -4,4 +4,4 @@ A weekly Twitch stream ([https://www.twitch.tv/bettercalldoll](https://www.twitc
 
 ## Have a burning question about web development that you want answered?
 
-This is the place to ask it! For those who can't make the Twitch streams feel free to submit a PR to the QUESTIONS.md with your question added and we will discus it during the next live stream.  The answer will be posted with the show notes.
+This is the place to ask it! For those who can't make the Twitch streams feel free to submit a PR to the [QUESTIONS.md](./QUESTIONS.md) with your question added and we will discus it during the next live stream.  The answer will be posted with the [show notes](./SHOW-NOTES.md).
