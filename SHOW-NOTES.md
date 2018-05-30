@@ -1,4 +1,9 @@
 
+# 05-29-2018
+- Video of Twitch stream: [https://www.twitch.tv/videos/267179252](https://www.twitch.tv/videos/267179252)
+- Tonight we talked about the article on https://hackernoon.com/things-you-should-never-say-when-interviewing-for-a-developer-role-138609321d7b](Things you should never say when interviewing for a developer role).
+- [Meetup](https://www.meetup.com/Breaking-In-Engineers-Helping-Engineers/) Come help with mock interviews! - June 14th, location TBD.
+
 # 05-21-2018
 - Video of Twitch stream: [https://www.twitch.tv/videos/264083335](https://www.twitch.tv/videos/264083335)
 - Tonight we talked about the article on [https://hackernoon.com/great-engineers-practice-defensive-communication-4a53efe06e70](Defensive Communication).
