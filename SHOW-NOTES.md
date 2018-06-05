@@ -2,7 +2,7 @@
 # 06-04-2018
 - Video of Twitch stream: [https://www.twitch.tv/videos/269499591](https://www.twitch.tv/videos/269499591)
 - Tonight we talked about [Microsoft's purchase of GitHub](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/).
-- [Learning the in's and out's of Git](https://git-scm.com/book/en/v2)
+- [Learning the ins and outs of Git](https://git-scm.com/book/en/v2)
 - [Become a git guru.](https://www.atlassian.com/git/tutorials)
 - [Gitflow for your development needs](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Meetup](https://www.meetup.com/Breaking-In-Engineers-Helping-Engineers/) Come help with mock interviews! - June 14th at VML!
