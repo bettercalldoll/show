@@ -1,5 +1,10 @@
 
 # 06-04-2018
+- Video of Twitch stream: [https://www.twitch.tv/videos/272243950](https://www.twitch.tv/videos/272243950)
+- Containerize all the things! [Docker](https://www.docker.com/) 
+- [Meetup](https://www.meetup.com/Breaking-In-Engineers-Helping-Engineers/) Come help with mock interviews! - This Thursday, June 14th 6PM at VML!
+
+# 06-04-2018
 - Video of Twitch stream: [https://www.twitch.tv/videos/269499591](https://www.twitch.tv/videos/269499591)
 - Tonight we talked about [Microsoft's purchase of GitHub](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/).
 - [Learning the ins and outs of Git](https://git-scm.com/book/en/v2)
