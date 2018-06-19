@@ -1,5 +1,9 @@
 
 # 06-04-2018
+- Video of Twitch stream: [https://www.twitch.tv/videos/274896686](https://www.twitch.tv/videos/274896686)
+- Dealing with clients that don't understand industry standards... We all have to deal with it, the client sometimes is not outside of our company.  
+
+# 06-04-2018
 - Video of Twitch stream: [https://www.twitch.tv/videos/272243950](https://www.twitch.tv/videos/272243950)
 - Containerize all the things! [Docker](https://www.docker.com/) 
 - [Meetup](https://www.meetup.com/Breaking-In-Engineers-Helping-Engineers/) Come help with mock interviews! - This Thursday, June 14th 6PM at VML!
