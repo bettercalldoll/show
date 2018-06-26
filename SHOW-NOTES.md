@@ -1,4 +1,8 @@
 
+# 06-25-2018
+- Video of Twitch stream: [https://www.twitch.tv/videos/277625791](https://www.twitch.tv/videos/277625791)
+- Question this week from [@FtSquareSandbox](https://twitter.com/FtSquareSandBox) "Ownership. When working in a client's ecosystem with many responsible parties, how does one place causation with the responsible party while remaining a valuable partner and not coming across defensive?"
+
 # 06-18-2018
 - Video of Twitch stream: [https://www.twitch.tv/videos/274896686](https://www.twitch.tv/videos/274896686)
 - Dealing with clients that don't understand industry standards... We all have to deal with it, the client sometimes is not outside of our company.  
