@@ -1,4 +1,15 @@
 
+# 07-16-2018
+- Video of Twitch stream: [https://www.twitch.tv/videos/285586575](https://www.twitch.tv/videos/285586575)
+- What is Event Sourcing?  https://engineering.talkdesk.com/event-sourcing-overcoming-the-monolith-c1a14b2bd26a
+
+# 07-09-2018
+- Video of Twitch stream: https://www.twitch.tv/videos/282821016](https://www.twitch.tv/videos/282821016)
+- My past presentation on Troubleshooting like a Boss! [https://slides.com/ryandoll/troubleshoot-like-a-boss#/](https://slides.com/ryandoll/troubleshoot-like-a-boss#/)
+
+# 07-02-2018
+- Coding over it with Ryan Doll... (playing frustrating games :-D)
+
 # 06-25-2018
 - Video of Twitch stream: [https://www.twitch.tv/videos/277625791](https://www.twitch.tv/videos/277625791)
 - Question this week from [@FtSquareSandbox](https://twitter.com/FtSquareSandBox) "Ownership. When working in a client's ecosystem with many responsible parties, how does one place causation with the responsible party while remaining a valuable partner and not coming across defensive?"
