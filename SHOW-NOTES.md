@@ -1,4 +1,10 @@
 
+# 08-06-2018
+- Video of Twitch stream: [https://www.twitch.tv/videos/294051061](https://www.twitch.tv/videos/294051061)
+- Leveling up.  Podcasts that I recommend:
+  - Anything over at [https://devchat.tv/](https://devchat.tv/)
+  - [http://www.fullstackradio.com/](http://www.fullstackradio.com/)
+  - [http://shoptalkshow.com/](http://shoptalkshow.com/)
 # 07-16-2018
 - Video of Twitch stream: [https://www.twitch.tv/videos/285586575](https://www.twitch.tv/videos/285586575)
 - What is Event Sourcing?  https://engineering.talkdesk.com/event-sourcing-overcoming-the-monolith-c1a14b2bd26a
