@@ -16,3 +16,5 @@ A: Start looking at ways to SLOWLY introduce the [Agile Manifesto](http://agilem
 
 Q: [@nanorolla](https://twitter.com/nanorolla) asks: "I would love to hear what experienced developers say about the pros and cons of each of these: React, Angular, and Vue and the best use case for each. I am in the early stages of a project and decisions like this are starting to be made."  
 A: To long to list out here, but watch the video response here: [https://www.twitch.tv/videos/251240925](https://www.twitch.tv/videos/251240925)
+
+
